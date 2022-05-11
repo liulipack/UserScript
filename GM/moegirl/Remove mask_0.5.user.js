@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         MoeGirl_Remove mask
 // @name:zh-CN   萌百_去黑幕
-// @namespace    https://github.com/liulipack/UserScript
-// @version      0.5
 // @description  去除萌娘百科和 H 萌娘的黑幕。
+// @version      0.5
 // @author       LiuliPack
+// @namespace    https://github.com/liulipack/UserScript
+// @license      WTFPL
 // @include      /(m\.|www\.|zh\.|mzh\.)?(h)?moegirl(\.com|\.org\.cn)/
-// @grant        GM_addStyle
 // @updateURL    https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/moegirl/Remove%20mask_latest.user.js
 // @downloadURL  https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/moegirl/Remove%20mask_latest.user.js
-// @license      WTFPL
+// @grant        GM_addStyle
 // ==/UserScript==
 
 'use strict';

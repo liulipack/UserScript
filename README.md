@@ -8,6 +8,7 @@ Greasemonkey & AutoHotKey UserScript. Licensed using [WTFPL](LICENSE).
 
 面向网站(Site) | 描述(Desc) | 安装(Inst)
 | - | - | -
+DLSite | 去除 DLSite 在激活搜索框时的遮罩。 | [GitHub](https://github.com/liulipack/UserScriptt/raw/main/GM/DLSite/Remove%20search-mask_latest.user.js) [jsDelivr](https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/DLSite/Remove%20search-mask_latest.user.js)
 任意(Any) | 通过关键词匹配域名、网站标题和网站内容，阻止访问色情网站。 | [GitHub](https://github.com/liulipack/UserScriptt/raw/main/GM/Any/Porn%20blocker_latest.user.js) [jsDelivr](https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/Any/Porn%20blocker_latest.user.js)
 萌娘百科(MoeGirl) | 去除萌娘百科和 H 萌娘的黑幕。 | [GitHub](https://github.com/liulipack/UserScriptt/raw/main/GM/moegirl/Remove%20mask_latest.user.js) [jsDelivr](https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/moegirl/Remove%20mask_latest.user.js)
 琉璃神社(HACG) | 替换神社等级图标。 | [GitHub](https://github.com/liulipack/UserScriptt/raw/main/GM/HACG/Fake%20ace_latest.user.js) [jsDelivr](https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/HACG/Fake%20ace_latest.user.js)

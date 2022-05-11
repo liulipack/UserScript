@@ -1,17 +1,17 @@
 // ==UserScript==
 // @name         HACG_Fake ace
 // @name:zh-CN   琉璃神社_伪大佬
-// @namespace    https://github.com/liulipack/UserScript
-// @version      0.4
 // @description  替换神社等级图标。
+// @version      0.4
 // @author       LiuliPack
+// @namespace    https://github.com/liulipack/UserScript
+// @license      WTFPL
 // @match        https://www.hacg.me/wp/bbs/*
 // @match        https://www.hacg.cat/wp/bbs/*
-// @grant        GM_addStyle
-// @run-at       document-body
 // @updateURL    https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/HACG/Fake%20ace_latest.user.js
 // @downloadURL  https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/HACG/Fake%20ace_latest.user.js
-// @license      WTFPL
+// @run-at       document-body
+// @grant        GM_addStyle
 // ==/UserScript==
 
 'use strict';

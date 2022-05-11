@@ -1,17 +1,16 @@
 // ==UserScript==
 // @name         Any_Porn blocker
 // @name:zh-CN   任意_敏感内容屏蔽
-// @namespace    https://github.com/liulipack/UserScript
-// @version      0.1
 // @description  通过关键词匹配域名、网站标题和网站内容，阻止访问色情网站。
+// @version      0.1
 // @author       LiuliPack
+// @namespace    https://github.com/liulipack/UserScript
+// @license      WTFPL
 // @match        *://*/*
 // @exclude      https://*.gravatar.com/*
-// @grant        GM_addStyle
-// @run-at       document-start
 // @updateURL    https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/Any/Porn%20blocker_latest.user.js
 // @downloadURL  https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/Any/Porn%20blocker_latest.user.js
-// @license      WTFPL
+// @run-at       document-start
 // ==/UserScript==
 
 'use strict';
