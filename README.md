@@ -13,7 +13,7 @@ Greasemonkey & AutoHotKey UserScript. Licensed using [WTFPL](LICENSE).
 萌百_去黑幕(MoeGirl_Remove mask) | 去除萌娘百科和 H 萌娘的黑幕。 | [GitHub](https://github.com/liulipack/UserScriptt/raw/main/GM/moegirl/Remove%20mask_latest.user.js) [jsDelivr](https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/moegirl/Remove%20mask_latest.user.js)
 哔哩哔哩_取缔营销号(Bili_Outlawing rotten-acct) | 基于程序员鱼皮的打击营销号([liyupi/rubbish-yingxiaohao](l[iyupi/rubbish-yingxiaohao](https://github.com/liyupi/rubbish-yingxiaohao)))，做的油猴版本。 | [GitHub](https://github.com/liulipack/UserScriptt/raw/main/GM/Bili/Outlawing%20rotten-acct_latest.user.js) [jsDelivr](https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/Bili/Outlawing%20rotten-acct_latest.user.js)
 琉璃神社_伪大佬(HACG_Fake ace) | 替换神社等级图标。 | [GitHub](https://github.com/liulipack/UserScriptt/raw/main/GM/HACG/Fake%20ace_latest.user.js) [jsDelivr](https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/HACG/Fake%20ace_latest.user.js)
-DLSite | 去除 DLSite 在激活搜索框时的遮罩。 | [GitHub](https://github.com/liulipack/UserScriptt/raw/main/GM/DLSite/Remove%20search-mask_latest.user.js) [jsDelivr](https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/DLSite/Remove%20search-mask_latest.user.js)
+DLSite_去搜索遮罩(DLSite_Remove search-mask) | 去除 DLSite 在激活搜索框时的遮罩。 | [GitHub](https://github.com/liulipack/UserScriptt/raw/main/GM/DLSite/Remove%20search-mask_latest.user.js) [jsDelivr](https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/DLSite/Remove%20search-mask_latest.user.js)
 
 ## AutoHotKey
 
