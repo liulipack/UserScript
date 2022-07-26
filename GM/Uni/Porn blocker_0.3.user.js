@@ -9,8 +9,6 @@
 // @match        *://*/*
 // @exclude      https://*.gravatar.com/*
 // @exclude      https://*.java.com/*
-// @updateURL    https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/Uni/Porn%20blocker_latest.user.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/liulipack/UserScript@main/GM/Uni/Porn%20blocker_latest.user.js
 // @run-at       document-body
 // @grant        GM_addStyle
 // ==/UserScript==
