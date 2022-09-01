@@ -1,3 +1,5 @@
+受软件自由保护协会《[Give Up GitHub: The Time Has Come!(放弃 GitHub：时机以至！)](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)》一文建议，本仓库将迁移至 [GitLab](https://gitlab.com/LiuliPack/userscript)。
+
 # 关于 / About
 油猴、AutoHotKey 脚本。采用 [WTFPL](LICENSE) 授权。  
 Greasemonkey & AutoHotKey UserScript. Licensed using [WTFPL](LICENSE).
